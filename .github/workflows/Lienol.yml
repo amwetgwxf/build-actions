@@ -32,6 +32,7 @@ on:
         type: choice
         options:
           - 'aarch64'
+          - 'xiaomi_mi-router-3g'
           - 'x86_64'
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'

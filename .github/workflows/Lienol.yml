@@ -32,6 +32,7 @@ on:
         type: choice
         options:
           - 'aarch64'
+          - 'xiaomi_miwifi-mini'
           - 'xiaomi_mi-router-3g'
           - 'x86_64'
       CPU_SELECTION:
